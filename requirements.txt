@@ -42,3 +42,7 @@ pinecone-client
 pinecone-text
 pinecone-notebooks
 neo4j==5.14
+keras-nlp
+keras>=3
+langchain_experimental
+lamini
